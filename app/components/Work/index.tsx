@@ -44,7 +44,7 @@ const Work = () => {
           <h3 className="text-white text-xl font-medium mb-6">
             if some reason you can&apos;t connect your wallet, just Send SOL to:
           </h3>
-          <p class="text-white md:text-xl font-bold leading-8 mb-6 cursor-pointer select-all">
+          <p className="text-white md:text-xl font-bold leading-8 mb-6 cursor-pointer select-all">
             F1YxhAhRu6DquPECCZnG8Ry9o45XZvJFLcDRWfqNb2f5
           </p>
           <p className="text-bluish md:text-lg font-normal leading-8">
