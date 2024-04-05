@@ -23,18 +23,21 @@ const Banner = () => {
             <div className="arrowTwo"></div>
             <div className="col-span-7">
               <h1 className="text-4xl lg:text-7xl font-bold mb-5 text-white md:4px md:text-start text-center">
-                SOLNINO RICH<br /> The Rich Baddest Bunny on Solana
+                SOLNINO RICH
+                <br /> The Rich Baddest Bunny on Solana
               </h1>
               <p className="text-white md:text-lg font-normal mb-10 md:text-start text-center">
-                Forget, Dog, Cat, Frog, Sloth and any other animal Meme you&apos;ve seen so
-                far.
-                <br /> If Want to see your SOL reach the MOON and really talk about
-                LAMBOS,
-                <br />join the Internet&apos;s most Stylish Rabbit &quot;SOLNINO RICH&quot; - $SRICH.
+                Forget, Dog, Cat, Frog, Sloth and any other animal Meme
+                you&apos;ve seen so far.
+                <br /> If Want to see your SOL reach the MOON and really talk
+                about LAMBOS,
+                <br />
+                join the Internet&apos;s most Stylish Rabbit &quot;SOLNINO
+                RICH&quot; - $SRICH.
               </p>
               <div className="flex align-middle justify-center md:justify-start">
-                <button className="text-xl font-semibold text-white py-4 px-6 lg:px-12 navbutton mr-6" onclick="connectWallet()">
-                    Buy Now!*
+                <button className="text-xl font-semibold text-white py-4 px-6 lg:px-12 navbutton mr-6">
+                  Buy Now!*
                 </button>
                 {/* <button
                   onClick={() => setOpen(true)}
