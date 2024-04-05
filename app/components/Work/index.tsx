@@ -13,22 +13,19 @@ const workdata: workdata[] = [
     imgSrc: "/images/Work/icon-one.svg",
     heading: '1 - Press "BUY NOW"',
     subheading: "Connect Your Wallet",
-    hiddenpara:
-      "standard dummy text ever since the 1500s, when an unknownprinter took a galley of type and scrambled it to make a type specimen book. It has survived...",
+    hiddenpara: "",
   },
   {
     imgSrc: "/images/Work/icon-two.svg",
     heading: "2 - Enter Ammount of SOL",
     subheading: "to Swap for $SRICH",
-    hiddenpara:
-      "standard dummy text ever since the 1500s, when an unknownprinter took a galley of type and scrambled it to make a type specimen book. It has survived...",
+    hiddenpara: "",
   },
   {
     imgSrc: "/images/Work/icon-three.svg",
     heading: '3 - Hit "BUY NOW" again',
     subheading: "and Approve Transaction",
-    hiddenpara:
-      "standard dummy text ever since the 1500s, when an unknownprinter took a galley of type and scrambled it to make a type specimen book. It has survived...",
+    hiddenpara: "",
   },
 ];
 
