@@ -36,11 +36,7 @@ const Banner = () => {
                 RICH&quot; - $SRICH.
               </p>
               <div className="flex align-middle justify-center md:justify-start">
-                <button
-                  className="text-xl font-semibold text-white py-4 px-6 lg:px-12 navbutton mr-6"
-                  href="https://dexscreener.com/base/0x09fb8d55930bd077d905e61e342dfceece6d50ff"
-                  target="_blank"
-                >
+                <button className="text-xl font-semibold text-white py-4 px-6 lg:px-12 navbutton mr-6">
                   Buy Now!*
                 </button>
                 {/* <button
