@@ -11,13 +11,13 @@ interface workdata {
 const workdata: workdata[] = [
   {
     imgSrc: "/images/Work/icon-one.svg",
-    heading: '1 - Press "BUY NOW"',
+    heading: '1 - Press "BUY NOW" and go to DEXSCREENER',
     subheading: "Connect Your Wallet",
     hiddenpara: "",
   },
   {
     imgSrc: "/images/Work/icon-two.svg",
-    heading: "2 - Enter Ammount of SOL",
+    heading: "2 - Enter Ammount of ETH",
     subheading: "to Swap for $SRICH",
     hiddenpara: "",
   },
@@ -45,14 +45,15 @@ const Work = () => {
             F1YxhAhRu6DquPECCZnG8Ry9o45XZvJFLcDRWfqNb2f5
           </p>
           <p className="text-bluish md:text-lg font-normal leading-8">
-            Buy before Launch!** <br /> Enjoy the best price before launch.
+            Buy Now** <br /> Enjoy the best price.
           </p>
           <h3 className="text-offwhite text-3xl md:text-5xl font-bold mb-3">
-            1 SOL = 20000 $SRICH
+            1 $SRICH = 0.00002625 $USD
           </h3>
           <p className="text-bluish md:text-lg font-normal leading-8">
-            &quot;**It will be Airdropped directly on your wallet one day before
-            launch&quot;
+            &quot;**It will be Airdropped directly on your wallet if you buy
+            with SOL or SWAP on DEXSCREENER with ETH BASE&quot; - Contract:
+            0xF2784F0831Ce117129D80446A7376A0d823ee2AD
           </p>
           <h3 className="text-white text-xl font-medium mb-9">
             NB: Don&apos;t use a CEX to send SOL, that address cannot be
