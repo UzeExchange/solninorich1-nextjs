@@ -11,20 +11,20 @@ interface workdata {
 const workdata: workdata[] = [
   {
     imgSrc: "/images/Work/icon-one.svg",
-    heading: '1 - Press "BUY NOW" and go to DEXSCREENER',
-    subheading: "Connect Your Wallet",
+    heading: "1 - Go to pump.fun and search $SRICH",
+    subheading: "Look inside the Rabbit eyes and choose an ammount to Buy",
     hiddenpara: "",
   },
   {
     imgSrc: "/images/Work/icon-two.svg",
-    heading: "2 - Enter Ammount of ETH",
+    heading: "2 - Enter Ammount of SOL",
     subheading: "to Swap for $SRICH",
     hiddenpara: "",
   },
   {
     imgSrc: "/images/Work/icon-three.svg",
-    heading: '3 - Hit "BUY NOW" again',
-    subheading: "and Approve Transaction",
+    heading: '3 - Hit "PLACE TRADE"',
+    subheading: "Approve Transaction and HOLD until MOON",
     hiddenpara: "",
   },
 ];
@@ -39,21 +39,20 @@ const Work = () => {
             How to Buy
           </h3>
           <h3 className="text-white text-xl font-medium mb-6">
-            if some reason you can&apos;t connect your wallet, just Send SOL to:
+            if you dont want buy on pump.fun, just Send SOL to:
           </h3>
           <p className="text-white md:text-xl font-bold leading-8 mb-6 cursor-pointer select-all">
             F1YxhAhRu6DquPECCZnG8Ry9o45XZvJFLcDRWfqNb2f5
           </p>
           <p className="text-bluish md:text-lg font-normal leading-8">
-            Buy Now** <br /> Enjoy the best price.
+            Buy Now** <br /> Enjoy the future.
           </p>
           <h3 className="text-offwhite text-3xl md:text-5xl font-bold mb-3">
-            1 $SRICH = 0.00002625 $USD
+            1 $SRICH = MOON/LAMBOS
           </h3>
           <p className="text-bluish md:text-lg font-normal leading-8">
-            &quot;**It will be Airdropped directly on your wallet if you buy
-            with SOL or SWAP on DEXSCREENER with ETH BASE&quot; - Contract:
-            0xF2784F0831Ce117129D80446A7376A0d823ee2AD
+            &quot;**It will be Airdropped directly on your wallet when bond goes
+            to DEXSCREENER&quot; -
           </p>
           <h3 className="text-white text-xl font-medium mb-9">
             NB: Don&apos;t use a CEX to send SOL, that address cannot be

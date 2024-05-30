@@ -29,8 +29,8 @@ const Banner = () => {
               <p className="text-white md:text-lg font-normal mb-10 md:text-start text-center">
                 Forget, Dog, Cat, Frog, Sloth and any other animal Meme
                 you&apos;ve seen so far.
-                <br /> If Want to see your SOL or ETH reach the MOON and really
-                talk about LAMBOS,
+                <br /> If Want to see your SOL reach the MOON and really talk
+                about LAMBOS,
                 <br />
                 join the Internet&apos;s most Stylish Rabbit &quot;SOLNINO
                 RICH&quot; - $SRICH.
